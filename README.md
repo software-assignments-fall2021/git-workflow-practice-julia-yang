@@ -1,4 +1,4 @@
-# README2
+# README - intersectional DEI in tech
 Instruction: edit this file such that in includes the following: 
 * a link to an article or web site you find interesting related to software development/engineering.
     + [How Big Tech is Importing India's Caste Legacy to Silicon Valley](https://www.bloomberg.com/news/features/2021-03-11/how-big-tech-is-importing-india-s-caste-legacy-to-silicon-valley)
